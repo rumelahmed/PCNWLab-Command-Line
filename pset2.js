@@ -32,17 +32,35 @@ mv stuff pset2
  mkdir src 
  cd ..
  mv amazon.jpg ./assets/images
- mv 
+ mv facebook.png ./assets/images
+ mv google.jpg ./assets/images 
+ mv twitter.png ./asssets/images
+mv meme.jpg ./assets/memes
+mv foo.js ./assets/src
+
+
+
 
 
 4. Open `hello.html` using a code editor and change "SOME_CLASS" to "Full Stack: Nights & Weekends". Save it.
 
 5. You should have the following commits:
 - git initialized
+git init
 - added app.js
+touch app.js
 - added hello.html
+touch hello.html
 - created assets directory
+mkdir assets
 - added all images & memes
+v amazon.jpg ./assets/images
+ mv facebook.png ./assets/images
+ mv google.jpg ./assets/images 
+ mv twitter.png ./asssets/images
+mv meme.jpg ./assets/memes
+mv foo.js ./assets/src
+
 - added all sources
 - modified hello file
 ******************/
