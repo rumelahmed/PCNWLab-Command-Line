@@ -9,6 +9,7 @@ In this problem, you will be downloading some files from online, then creating a
 3. Achieve the following structure ONLY using command line:
 
 ~/Desktop/pset2
+
     /assets
         /images
             amazon.jpg
@@ -21,6 +22,18 @@ In this problem, you will be downloading some files from online, then creating a
             foo.js
     app.js
     hello.html
+
+
+mv stuff pset2
+ mkdir assets
+ cd assets
+ mkdir images
+ mkdir memes
+ mkdir src 
+ cd ..
+ mv amazon.jpg ./assets/images
+ mv 
+
 
 4. Open `hello.html` using a code editor and change "SOME_CLASS" to "Full Stack: Nights & Weekends". Save it.
 
