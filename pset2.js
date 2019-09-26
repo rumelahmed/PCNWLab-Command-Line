@@ -54,12 +54,6 @@ touch hello.html
 - created assets directory
 mkdir assets
 - added all images & memes
-v amazon.jpg ./assets/images
- mv facebook.png ./assets/images
- mv google.jpg ./assets/images 
- mv twitter.png ./asssets/images
-mv meme.jpg ./assets/memes
-mv foo.js ./assets/src
 
 - added all sources
 - modified hello file
